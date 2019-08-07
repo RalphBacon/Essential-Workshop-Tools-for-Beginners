@@ -20,7 +20,7 @@ Please don't forget to look at the items from my sponsor, https://lcsc.com/?href
 
 I paid for all my items, no freebies!
 
-### LINKS 
+### LINKS - Full list, I had to cut the YouTube version down quite a bit!
 My advice is to *shop around*. Google is your best (shopping) friend. You just know I cannot possibly list out all items that relate to the ones I mentioned in the video. Check out the links below as a starting point. All prices quoted here are correct at time of writing (August 2019)
 
 Some links (less than you might think) below are affiliate links which can help my channel financially. As an Amazon Associate I earn from qualifying purchases. I never link to an item I would not be prepared to purchase myself (assuming I could afford it).
@@ -33,10 +33,10 @@ https://amzn.to/2M2yhPF
 https://amzn.to/2MHo76t
 
 Beginners' Bench-type soldering station (dozens of similar ones around)  
-**LCSC Mechanic HK-936 Soldering Station (About $25) **  
+**LCSC Mechanic HK-936 Soldering Station (About $25)**  
 https://lcsc.com/product-detail/Soldering-tools_MECHANIC-MECHANIC-45W-HK-936_C98913.html
 
-**LSCC Mechanic HK937D Soldering Station (About $45)**  
+**LCSC Mechanic HK937D Soldering Station (About $45)**  
 https://lcsc.com/product-detail/Soldering-tools_MECHANIC-MECHANIC-60W-HK-937D_C179708.html
 
 YouTube **unboxing & test of Mechanic HK-937D** Soldering Iron Station (as sold by LCSC.com)  

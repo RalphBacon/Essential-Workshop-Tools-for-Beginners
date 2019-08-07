@@ -3,11 +3,23 @@ Looking for some simple but essential Arduino tools? Watch this video!
 
 $8 off your first order at LCSC Electronics with https://lcsc.com/?href=ralphsbacon&source=referral  
 
-More information (including all links in my GitHub)  
+I get a number of private queries about what tools to buy or what tools viewers have spotted on my workbench. You can spend days looking at ones in your price range, watching or reading reviews, deciding on a particular model only to change your mind just before you click the Buy Now button... I know, I did all this recently when I bought a new multimeter!  
+
+So I thought I give you a broad overview of what I had previously, what I have now and why I decided to buy those particluar items.  
+
+Beginners should buy items with a beginner-friendly price tag. Because they have (almost) no idea what they will be using the item for (or whether their new hobby will even continue beyond Christmas Day) it makes sense to cut your costs.
+
+That said, there are some absolute 'budget friendly' bargains to be had that I would have willingly sold my first born child for just a few decades ago. I've included items that I would personally buy for a newcomer to the hobby, knowing that even though each item costs less than £25 ($30) it is still leaps and bounds better than what I ever had. Yes, the Chinese electronics market can be good value for money if you keep your eyes open and your wits about you!
+
+So, look at the budget items for beginners but if you are ready to move on then look at the upgrade I bought to see whether it's the sort of thing you aspire too. You can spend many times what I spent on an item (anyone fancy a Fluke multimeter? Yeah, right!) but what I have ended up with I consider to be good value and well built that should last for years to come. Fingers crossed.
+
+Please don't forget to look at the items from my sponsor, https://lcsc.com/?href=ralphsbacon&source=referral, I must admit I never realised they sold tools like this so we've all learned something.
+
+Remember, there's more information (including all links in my GitHub)  
 https://github.com/RalphBacon/Essential-Workshop-Tools-for-Beginners
 
 ### LINKS 
-My advice is to shop around. Google is your best (shopping) friend. You just know I cannot possibly list out all items that relate to the ones I mentioned in the video. Check out the links below as a starting point. All prices quoted here are correct at time of writing (August 2019)
+My advice is to *shop around*. Google is your best (shopping) friend. You just know I cannot possibly list out all items that relate to the ones I mentioned in the video. Check out the links below as a starting point. All prices quoted here are correct at time of writing (August 2019)
 
 Some links (less than you might think) below are affiliate links which can help my channel financially. As an Amazon Associate I earn from qualifying purchases. I never link to an item I would not be prepared to purchase myself (assuming I could afford it).
 

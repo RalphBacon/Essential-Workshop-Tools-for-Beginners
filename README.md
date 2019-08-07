@@ -1,9 +1,9 @@
-# Essential Workshop Tools for Beginners
+# Essential Workshop Tools for Beginners (and upgraders)
 Looking for some simple but essential Arduino tools? Watch this video!
 
 $8 off your first order at LCSC Electronics with https://lcsc.com/?href=ralphsbacon&source=referral  
 
-I get a number of private queries about what tools to buy or what tools viewers have spotted on my workbench. You can spend days looking at ones in your price range, watching or reading reviews, deciding on a particular model only to change your mind just before you click the Buy Now button... I know, I did all this recently when I bought a new multimeter!  
+I get a number of private queries about what tools to buy or what tools viewers have spotted on my workbench. You can spend days looking at ones in your price range, watching or reading reviews, deciding on a particular model only to change your mind just before you click the **Buy Now** button... I know, I did all this recently when I bought a new multimeter!  
 
 So I thought I give you a broad overview of what I had previously, what I have now and why I decided to buy those particluar items.  
 

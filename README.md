@@ -18,8 +18,7 @@ So, look at the budget items for beginners but if you are ready to move on then 
 
 Please don't forget to look at the items from my sponsor, https://lcsc.com/?href=ralphsbacon&source=referral, I must admit I never realised they sold tools like this so we've all learned something.
 
-Remember, there's more information (including all links in my GitHub)  
-https://github.com/RalphBacon/Essential-Workshop-Tools-for-Beginners
+I paid for all my items, no freebies!
 
 ### LINKS 
 My advice is to *shop around*. Google is your best (shopping) friend. You just know I cannot possibly list out all items that relate to the ones I mentioned in the video. Check out the links below as a starting point. All prices quoted here are correct at time of writing (August 2019)

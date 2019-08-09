@@ -62,6 +62,9 @@ https://www.banggood.com/Soldering-Iron-Head-Tip-Cleaner-Copper-Steel-Wire-Spong
 10Pcs **Solder Iron Tips** for Weller (LT Soldering Iron Tips) fit the ATTEN ST-100 only (not ST-60 or ST-80)  
 https://www.banggood.com/10Pcs-Solder-Iron-Tips-for-Weller-WSD81-WSP80-WD1000-WP80-LT-Soldering-Iron-Tip-p-1332556.html
 
+**0.5mm solder**, 250g Multicore (I thought it was 0.4mm, works very well)  
+https://cpc.farnell.com/multicore-solder/3096525-m/solder-60-40-hi-act-0-5mm-250g/dp/SD00958?CMP=TREML007-004  
+
 ### POWER SUPPLIES
 **LONG WEI LW-K3010D 110V/220V 30V 10A Adjustable Digital DC Power Supply** Switching Power Supply (about $50)  
 with EU Plug (AU & US plug versions available)  

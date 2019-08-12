@@ -65,6 +65,12 @@ https://www.banggood.com/10Pcs-Solder-Iron-Tips-for-Weller-WSD81-WSP80-WD1000-WP
 **0.5mm solder**, 250g Multicore (I thought it was 0.4mm, works very well)  
 https://cpc.farnell.com/multicore-solder/3096525-m/solder-60-40-hi-act-0-5mm-250g/dp/SD00958?CMP=TREML007-004  
 
+**Double Solder Holder** really well made  
+https://www.banggood.com/High-Strength-Tin-Solder-Frame-Soldering-Tin-Holder-Metal-Tin-Wire-Frame-Stand-2-Levles-p-1156335.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
+**Single Solder Holder** I've not got this one but it looks the same (just for a single roll)  
+https://www.banggood.com/Metal-Solder-Station-Soldering-Iron-Stand-Solder-Base-Solder-Tin-Wire-Stand-Holder-Support-p-1310875.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
 ### POWER SUPPLIES
 **LONG WEI LW-K3010D 110V/220V 30V 10A Adjustable Digital DC Power Supply** Switching Power Supply (about $50)  
 with EU Plug (AU & US plug versions available)  
